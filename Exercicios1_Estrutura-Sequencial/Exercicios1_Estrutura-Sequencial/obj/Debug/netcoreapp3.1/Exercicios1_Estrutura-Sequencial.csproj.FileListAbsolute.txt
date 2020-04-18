@@ -1,0 +1,11 @@
+D:\Ailton Lima\Projetos\Exercicios1_Estrutura-Sequencial\Exercicios1_Estrutura-Sequencial\bin\Debug\netcoreapp3.1\Exercicios1_Estrutura-Sequencial.exe
+D:\Ailton Lima\Projetos\Exercicios1_Estrutura-Sequencial\Exercicios1_Estrutura-Sequencial\bin\Debug\netcoreapp3.1\Exercicios1_Estrutura-Sequencial.deps.json
+D:\Ailton Lima\Projetos\Exercicios1_Estrutura-Sequencial\Exercicios1_Estrutura-Sequencial\bin\Debug\netcoreapp3.1\Exercicios1_Estrutura-Sequencial.runtimeconfig.json
+D:\Ailton Lima\Projetos\Exercicios1_Estrutura-Sequencial\Exercicios1_Estrutura-Sequencial\bin\Debug\netcoreapp3.1\Exercicios1_Estrutura-Sequencial.runtimeconfig.dev.json
+D:\Ailton Lima\Projetos\Exercicios1_Estrutura-Sequencial\Exercicios1_Estrutura-Sequencial\bin\Debug\netcoreapp3.1\Exercicios1_Estrutura-Sequencial.dll
+D:\Ailton Lima\Projetos\Exercicios1_Estrutura-Sequencial\Exercicios1_Estrutura-Sequencial\bin\Debug\netcoreapp3.1\Exercicios1_Estrutura-Sequencial.pdb
+D:\Ailton Lima\Projetos\Exercicios1_Estrutura-Sequencial\Exercicios1_Estrutura-Sequencial\obj\Debug\netcoreapp3.1\Exercicios1_Estrutura-Sequencial.csprojAssemblyReference.cache
+D:\Ailton Lima\Projetos\Exercicios1_Estrutura-Sequencial\Exercicios1_Estrutura-Sequencial\obj\Debug\netcoreapp3.1\Exercicios1_Estrutura-Sequencial.AssemblyInfoInputs.cache
+D:\Ailton Lima\Projetos\Exercicios1_Estrutura-Sequencial\Exercicios1_Estrutura-Sequencial\obj\Debug\netcoreapp3.1\Exercicios1_Estrutura-Sequencial.AssemblyInfo.cs
+D:\Ailton Lima\Projetos\Exercicios1_Estrutura-Sequencial\Exercicios1_Estrutura-Sequencial\obj\Debug\netcoreapp3.1\Exercicios1_Estrutura-Sequencial.dll
+D:\Ailton Lima\Projetos\Exercicios1_Estrutura-Sequencial\Exercicios1_Estrutura-Sequencial\obj\Debug\netcoreapp3.1\Exercicios1_Estrutura-Sequencial.pdb
