@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Ailton Lima\\repos\\alandradeti\\Programas-Basicos-C-Sharp\\Correcao-exercicios-fixacao\\Correcao-exercicios-fixacao\\Correcao-Exercicios-Fixacao.csproj": {}
+    "D:\\Ailton Lima\\repos\\alandradeti\\Programas-Basicos-C-Sharp\\Correcao-exercicios-fixacao\\Correcao-exercicios-fixacao\\Correcao-Exercicios-Fixacao1.csproj": {}
   },
   "projects": {
-    "D:\\Ailton Lima\\repos\\alandradeti\\Programas-Basicos-C-Sharp\\Correcao-exercicios-fixacao\\Correcao-exercicios-fixacao\\Correcao-Exercicios-Fixacao.csproj": {
+    "D:\\Ailton Lima\\repos\\alandradeti\\Programas-Basicos-C-Sharp\\Correcao-exercicios-fixacao\\Correcao-exercicios-fixacao\\Correcao-Exercicios-Fixacao1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Ailton Lima\\repos\\alandradeti\\Programas-Basicos-C-Sharp\\Correcao-exercicios-fixacao\\Correcao-exercicios-fixacao\\Correcao-Exercicios-Fixacao.csproj",
-        "projectName": "Correcao-Exercicios-Fixacao",
-        "projectPath": "D:\\Ailton Lima\\repos\\alandradeti\\Programas-Basicos-C-Sharp\\Correcao-exercicios-fixacao\\Correcao-exercicios-fixacao\\Correcao-Exercicios-Fixacao.csproj",
+        "projectUniqueName": "D:\\Ailton Lima\\repos\\alandradeti\\Programas-Basicos-C-Sharp\\Correcao-exercicios-fixacao\\Correcao-exercicios-fixacao\\Correcao-Exercicios-Fixacao1.csproj",
+        "projectName": "Correcao-Exercicios-Fixacao1",
+        "projectPath": "D:\\Ailton Lima\\repos\\alandradeti\\Programas-Basicos-C-Sharp\\Correcao-exercicios-fixacao\\Correcao-exercicios-fixacao\\Correcao-Exercicios-Fixacao1.csproj",
         "packagesPath": "C:\\Users\\Ailton Lima\\.nuget\\packages\\",
         "outputPath": "D:\\Ailton Lima\\repos\\alandradeti\\Programas-Basicos-C-Sharp\\Correcao-exercicios-fixacao\\Correcao-exercicios-fixacao\\obj\\",
         "projectStyle": "PackageReference",
