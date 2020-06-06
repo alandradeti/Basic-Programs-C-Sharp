@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hUc8nm09+c+dlE3AP+MvpsxRY+6lFWauuOFU+bJWvUD+rMsNdHpM2alr2yaehejI1T3E/ou3ixklRzO9nvWTWw==",
+  "dgSpecHash": "WtM+csSo/CyBopn12lsM/ic362LLvH2+PG9hhTi8K2zWY+WpWf1cTKzcvzJBZZ3AJCEfCPbznUjDDV8V4sQx9g==",
   "success": true,
-  "projectFilePath": "D:\\Ailton Lima\\repos\\alandradeti\\Programas-Basicos-C-Sharp\\Correcao-exercicios-fixacao\\Correcao-exercicios-fixacao\\Correcao-Exercicios-Fixacao.csproj",
+  "projectFilePath": "D:\\Ailton Lima\\repos\\alandradeti\\Programas-Basicos-C-Sharp\\Correcao-Exercicios-Fixacao\\Correcao-exercicios-fixacao\\Correcao-Exercicios-Fixacao.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ailton Lima\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
   ],
