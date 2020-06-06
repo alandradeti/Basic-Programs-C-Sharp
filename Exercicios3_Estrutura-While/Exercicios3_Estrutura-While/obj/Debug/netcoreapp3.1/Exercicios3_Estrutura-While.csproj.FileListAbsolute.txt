@@ -1,0 +1,11 @@
+C:\Users\Ailton.Andrade\source\repos\Exercicios3_Estrutura-While\Exercicios3_Estrutura-While\bin\Debug\netcoreapp3.1\Exercicios3_Estrutura-While.exe
+C:\Users\Ailton.Andrade\source\repos\Exercicios3_Estrutura-While\Exercicios3_Estrutura-While\bin\Debug\netcoreapp3.1\Exercicios3_Estrutura-While.deps.json
+C:\Users\Ailton.Andrade\source\repos\Exercicios3_Estrutura-While\Exercicios3_Estrutura-While\bin\Debug\netcoreapp3.1\Exercicios3_Estrutura-While.runtimeconfig.json
+C:\Users\Ailton.Andrade\source\repos\Exercicios3_Estrutura-While\Exercicios3_Estrutura-While\bin\Debug\netcoreapp3.1\Exercicios3_Estrutura-While.runtimeconfig.dev.json
+C:\Users\Ailton.Andrade\source\repos\Exercicios3_Estrutura-While\Exercicios3_Estrutura-While\bin\Debug\netcoreapp3.1\Exercicios3_Estrutura-While.dll
+C:\Users\Ailton.Andrade\source\repos\Exercicios3_Estrutura-While\Exercicios3_Estrutura-While\bin\Debug\netcoreapp3.1\Exercicios3_Estrutura-While.pdb
+C:\Users\Ailton.Andrade\source\repos\Exercicios3_Estrutura-While\Exercicios3_Estrutura-While\obj\Debug\netcoreapp3.1\Exercicios3_Estrutura-While.AssemblyInfoInputs.cache
+C:\Users\Ailton.Andrade\source\repos\Exercicios3_Estrutura-While\Exercicios3_Estrutura-While\obj\Debug\netcoreapp3.1\Exercicios3_Estrutura-While.AssemblyInfo.cs
+C:\Users\Ailton.Andrade\source\repos\Exercicios3_Estrutura-While\Exercicios3_Estrutura-While\obj\Debug\netcoreapp3.1\Exercicios3_Estrutura-While.dll
+C:\Users\Ailton.Andrade\source\repos\Exercicios3_Estrutura-While\Exercicios3_Estrutura-While\obj\Debug\netcoreapp3.1\Exercicios3_Estrutura-While.pdb
+C:\Users\Ailton.Andrade\source\repos\Exercicios3_Estrutura-While\Exercicios3_Estrutura-While\obj\Debug\netcoreapp3.1\Exercicios3_Estrutura-While.csprojAssemblyReference.cache

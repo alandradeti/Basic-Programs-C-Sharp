@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Ailton.Andrade\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Ailton.Andrade\\.nuget\\packages"
+    ]
+  }
+}
