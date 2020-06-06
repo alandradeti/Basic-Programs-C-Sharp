@@ -1,0 +1,11 @@
+C:\Users\Ailton.Andrade\source\repos\Correcao_Execicio_Fixacao\Correcao_Execicio_Fixacao\bin\Debug\netcoreapp3.1\Correcao_Execicio_Fixacao.exe
+C:\Users\Ailton.Andrade\source\repos\Correcao_Execicio_Fixacao\Correcao_Execicio_Fixacao\bin\Debug\netcoreapp3.1\Correcao_Execicio_Fixacao.deps.json
+C:\Users\Ailton.Andrade\source\repos\Correcao_Execicio_Fixacao\Correcao_Execicio_Fixacao\bin\Debug\netcoreapp3.1\Correcao_Execicio_Fixacao.runtimeconfig.json
+C:\Users\Ailton.Andrade\source\repos\Correcao_Execicio_Fixacao\Correcao_Execicio_Fixacao\bin\Debug\netcoreapp3.1\Correcao_Execicio_Fixacao.runtimeconfig.dev.json
+C:\Users\Ailton.Andrade\source\repos\Correcao_Execicio_Fixacao\Correcao_Execicio_Fixacao\bin\Debug\netcoreapp3.1\Correcao_Execicio_Fixacao.dll
+C:\Users\Ailton.Andrade\source\repos\Correcao_Execicio_Fixacao\Correcao_Execicio_Fixacao\bin\Debug\netcoreapp3.1\Correcao_Execicio_Fixacao.pdb
+C:\Users\Ailton.Andrade\source\repos\Correcao_Execicio_Fixacao\Correcao_Execicio_Fixacao\obj\Debug\netcoreapp3.1\Correcao_Execicio_Fixacao.csprojAssemblyReference.cache
+C:\Users\Ailton.Andrade\source\repos\Correcao_Execicio_Fixacao\Correcao_Execicio_Fixacao\obj\Debug\netcoreapp3.1\Correcao_Execicio_Fixacao.AssemblyInfoInputs.cache
+C:\Users\Ailton.Andrade\source\repos\Correcao_Execicio_Fixacao\Correcao_Execicio_Fixacao\obj\Debug\netcoreapp3.1\Correcao_Execicio_Fixacao.AssemblyInfo.cs
+C:\Users\Ailton.Andrade\source\repos\Correcao_Execicio_Fixacao\Correcao_Execicio_Fixacao\obj\Debug\netcoreapp3.1\Correcao_Execicio_Fixacao.dll
+C:\Users\Ailton.Andrade\source\repos\Correcao_Execicio_Fixacao\Correcao_Execicio_Fixacao\obj\Debug\netcoreapp3.1\Correcao_Execicio_Fixacao.pdb
