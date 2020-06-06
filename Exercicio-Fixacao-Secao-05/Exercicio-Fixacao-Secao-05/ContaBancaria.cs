@@ -5,12 +5,11 @@ namespace Exercicio_Fixacao_Secao_05
 {
     class ContaBancaria
     {
-        
-        private string _numeroConta;
-        private string _nomeTitular;
 
-        //Declaração de atributo utilizando "Auto Propertie"
-        public double SaldoConta { get; set; }
+        //Declaração de atributos utilizando "Auto Properties"
+        public string NumeroConta { get; private set; }
+        public string NomeTitular { get;  set; }
+        public double SaldoConta { get; private set; }
 
 
         //Construtor sem necessidade de informar o deposito inicial
@@ -21,28 +20,9 @@ namespace Exercicio_Fixacao_Secao_05
         }
 
         //Construtor que recebe as mesmas características do construtor acima e necessita do deposito inicial
-        public ContaBancaria(string numeroConta, string nomeTitular, double saldoConta) : this(numeroConta, nomeTitular)
+        public ContaBancaria(string numeroConta, string nomeTitular, double depositoInicial) : this(numeroConta, nomeTitular)
         {
-            SaldoConta = saldoConta;
-        }
-
-        //Properties customizadas com verificação se está vazio
-        public string NumeroConta
-        {
-            get { return _numeroConta; }
-            set
-            {
-                if (value != null && value.Trim().Length > 0) _numeroConta = value;
-            }
-        }
-
-        public string NomeTitular
-        {
-            get { return _nomeTitular; }
-            set
-            {
-                if (value != null && value.Trim().Length > 0) _nomeTitular = value;
-            }
+            RealizarDeposito(depositoInicial);
         }
 
         //Método que realiza o deposito na conta
