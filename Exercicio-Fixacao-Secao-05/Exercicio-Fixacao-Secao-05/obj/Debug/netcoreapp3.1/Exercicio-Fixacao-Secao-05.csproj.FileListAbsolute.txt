@@ -1,0 +1,13 @@
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Exercicio-Fixacao-Secao-05\Exercicio-Fixacao-Secao-05\obj\Debug\netcoreapp3.1\Exercicio-Fixacao-Secao-05.AssemblyInfoInputs.cache
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Exercicio-Fixacao-Secao-05\Exercicio-Fixacao-Secao-05\obj\Debug\netcoreapp3.1\Exercicio-Fixacao-Secao-05.AssemblyInfo.cs
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Exercicio-Fixacao-Secao-05\Exercicio-Fixacao-Secao-05\obj\Debug\netcoreapp3.1\Exercicio-Fixacao-Secao-05.csproj.CoreCompileInputs.cache
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Exercicio-Fixacao-Secao-05\Exercicio-Fixacao-Secao-05\bin\Debug\netcoreapp3.1\Exercicio-Fixacao-Secao-05.exe
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Exercicio-Fixacao-Secao-05\Exercicio-Fixacao-Secao-05\bin\Debug\netcoreapp3.1\Exercicio-Fixacao-Secao-05.deps.json
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Exercicio-Fixacao-Secao-05\Exercicio-Fixacao-Secao-05\bin\Debug\netcoreapp3.1\Exercicio-Fixacao-Secao-05.runtimeconfig.json
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Exercicio-Fixacao-Secao-05\Exercicio-Fixacao-Secao-05\bin\Debug\netcoreapp3.1\Exercicio-Fixacao-Secao-05.runtimeconfig.dev.json
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Exercicio-Fixacao-Secao-05\Exercicio-Fixacao-Secao-05\bin\Debug\netcoreapp3.1\Exercicio-Fixacao-Secao-05.dll
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Exercicio-Fixacao-Secao-05\Exercicio-Fixacao-Secao-05\bin\Debug\netcoreapp3.1\Exercicio-Fixacao-Secao-05.pdb
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Exercicio-Fixacao-Secao-05\Exercicio-Fixacao-Secao-05\obj\Debug\netcoreapp3.1\Exercicio-Fixacao-Secao-05.csprojAssemblyReference.cache
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Exercicio-Fixacao-Secao-05\Exercicio-Fixacao-Secao-05\obj\Debug\netcoreapp3.1\Exercicio-Fixacao-Secao-05.dll
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Exercicio-Fixacao-Secao-05\Exercicio-Fixacao-Secao-05\obj\Debug\netcoreapp3.1\Exercicio-Fixacao-Secao-05.pdb
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Exercicio-Fixacao-Secao-05\Exercicio-Fixacao-Secao-05\obj\Debug\netcoreapp3.1\Exercicio-Fixacao-Secao-05.genruntimeconfig.cache
