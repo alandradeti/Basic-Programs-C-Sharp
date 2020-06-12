@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Exercicio-Fixacao-Secao-06/1.0.0": {
+        "runtime": {
+          "Exercicio-Fixacao-Secao-06.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercicio-Fixacao-Secao-06/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

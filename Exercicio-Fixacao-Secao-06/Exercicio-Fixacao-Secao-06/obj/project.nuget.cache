@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "D/L/J5UF5+B1Z3J8X26cSzLr2GW5m+BIkfrnZP7JPMWpr7/+o9pMCIg2nhK2mq/GXqgM7NnfDM9TbGQaUDe9sQ==",
+  "success": true,
+  "projectFilePath": "D:\\Ailton Lima\\repos\\alandradeti\\Programas-Basicos-C-Sharp\\Exercicio-Fixacao-Secao-06\\Exercicio-Fixacao-Secao-06\\Exercicio-Fixacao-Secao-06.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ailton Lima\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
