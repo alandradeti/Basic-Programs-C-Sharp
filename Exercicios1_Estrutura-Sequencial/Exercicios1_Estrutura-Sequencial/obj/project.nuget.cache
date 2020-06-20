@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "C2LWk/v4ZbThBZQStbMxsVINhuWVTmd0ld3P4/4oz5+SsTjPODK9DD/YTCGb4/WVRucaCZRJKl5tS74x5jaHOA==",
+  "dgSpecHash": "IHLr8Qhevo2STzSw68bnFzQjhB3C1U+AvVOHoBnRifKhLpRJy1IL7i77ZtLVXxXmfH+sifZS2G0fmP9PRR2fpg==",
   "success": true,
-  "projectFilePath": "D:\\Ailton Lima\\repos\\alandradeti\\Programas-Basicos-C-Sharp\\Exercicios1_Estrutura-Sequencial\\Exercicios1_Estrutura-Sequencial\\Exercicios1_Estrutura-Sequencial.csproj",
+  "projectFilePath": "D:\\Ailton Lima\\repos\\alandradeti\\Programas-Basicos-C-Sharp\\Exercicios1_Estrutura-Sequencial\\Exercicios1_Estrutura-Sequencial\\Estrutura-Sequencial.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Ailton Lima\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+    "C:\\Users\\Ailton Lima\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Ailton Lima\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Ailton Lima\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\Ailton Lima\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
   ],
   "logs": []
 }

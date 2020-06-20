@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Globalization;
 
-namespace Exercicios1_Estrutura_Sequencial
+namespace Estrutura_Sequencial
 {
     class Program
     {
@@ -110,7 +110,7 @@ namespace Exercicios1_Estrutura_Sequencial
         {
             double a, b, c, triangleArea, circleArea, trapezoidArea, squareArea, rectangleArea;
 
-            Console.WriteLine("Enter the 3 values ​​on each side separated by space:");
+            Console.WriteLine("Enter the 3 values on each side separated by space: ");
             string[] valores = Console.ReadLine().Split(' ');
 
             a = double.Parse(valores[0], CultureInfo.InvariantCulture);
@@ -147,7 +147,7 @@ namespace Exercicios1_Estrutura_Sequencial
 
                 + "\n1 - Perform Sum of two numbers."
 
-                + "\n2 - Calculate the area of ​​a circle."
+                + "\n2 - Calculate the area of a circle."
 
                 + "\n3 - Realize the difference between the Product of A and B and the Product of C and D."
 

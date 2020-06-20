@@ -1,20 +1,20 @@
 {
   "runtimeTarget": {
-    "name": ".NETCoreApp,Version=v3.1",
+    "name": ".NETCoreApp,Version=v3.0",
     "signature": ""
   },
   "compilationOptions": {},
   "targets": {
-    ".NETCoreApp,Version=v3.1": {
-      "Exercicios1_Estrutura-Sequencial/1.0.0": {
+    ".NETCoreApp,Version=v3.0": {
+      "Estrutura-Sequencial/1.0.0": {
         "runtime": {
-          "Exercicios1_Estrutura-Sequencial.dll": {}
+          "Estrutura-Sequencial.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Exercicios1_Estrutura-Sequencial/1.0.0": {
+    "Estrutura-Sequencial/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

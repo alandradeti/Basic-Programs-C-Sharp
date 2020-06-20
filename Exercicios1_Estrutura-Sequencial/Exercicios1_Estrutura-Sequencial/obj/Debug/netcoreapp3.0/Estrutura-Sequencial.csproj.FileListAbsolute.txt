@@ -1,0 +1,12 @@
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Exercicios1_Estrutura-Sequencial\Exercicios1_Estrutura-Sequencial\bin\Debug\netcoreapp3.0\Estrutura-Sequencial.exe
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Exercicios1_Estrutura-Sequencial\Exercicios1_Estrutura-Sequencial\bin\Debug\netcoreapp3.0\Estrutura-Sequencial.deps.json
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Exercicios1_Estrutura-Sequencial\Exercicios1_Estrutura-Sequencial\bin\Debug\netcoreapp3.0\Estrutura-Sequencial.runtimeconfig.json
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Exercicios1_Estrutura-Sequencial\Exercicios1_Estrutura-Sequencial\bin\Debug\netcoreapp3.0\Estrutura-Sequencial.runtimeconfig.dev.json
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Exercicios1_Estrutura-Sequencial\Exercicios1_Estrutura-Sequencial\bin\Debug\netcoreapp3.0\Estrutura-Sequencial.dll
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Exercicios1_Estrutura-Sequencial\Exercicios1_Estrutura-Sequencial\bin\Debug\netcoreapp3.0\Estrutura-Sequencial.pdb
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Exercicios1_Estrutura-Sequencial\Exercicios1_Estrutura-Sequencial\obj\Debug\netcoreapp3.0\Estrutura-Sequencial.AssemblyInfoInputs.cache
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Exercicios1_Estrutura-Sequencial\Exercicios1_Estrutura-Sequencial\obj\Debug\netcoreapp3.0\Estrutura-Sequencial.AssemblyInfo.cs
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Exercicios1_Estrutura-Sequencial\Exercicios1_Estrutura-Sequencial\obj\Debug\netcoreapp3.0\Estrutura-Sequencial.csproj.CoreCompileInputs.cache
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Exercicios1_Estrutura-Sequencial\Exercicios1_Estrutura-Sequencial\obj\Debug\netcoreapp3.0\Estrutura-Sequencial.dll
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Exercicios1_Estrutura-Sequencial\Exercicios1_Estrutura-Sequencial\obj\Debug\netcoreapp3.0\Estrutura-Sequencial.pdb
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Exercicios1_Estrutura-Sequencial\Exercicios1_Estrutura-Sequencial\obj\Debug\netcoreapp3.0\Estrutura-Sequencial.genruntimeconfig.cache
