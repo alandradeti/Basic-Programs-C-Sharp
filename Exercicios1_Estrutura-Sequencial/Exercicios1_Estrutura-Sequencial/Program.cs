@@ -5,141 +5,183 @@ namespace Exercicios1_Estrutura_Sequencial
 {
     class Program
     {
-        static void Exercicio1()
+        //Method that performs the sum of two numbers
+        static void SumNumbers()
         {
-            int num1, num2, soma;
+            int firstNumber, secondNumber, sumResult;
 
-            Console.WriteLine("Digite o primeiro número:");
-            num1 = int.Parse(Console.ReadLine());
+            Console.WriteLine("Enter the first number:");
+            firstNumber = int.Parse(Console.ReadLine());
 
-            Console.WriteLine("Digite o segundo número:");
-            num2 = int.Parse(Console.ReadLine());
+            Console.WriteLine("Enter the second number: ");
+            secondNumber = int.Parse(Console.ReadLine());
 
-            soma = num1 + num2;
+            sumResult = firstNumber + secondNumber;
 
-            Console.WriteLine("SOMA = " + soma);
+            Console.WriteLine("SUM = " + sumResult);
         }
 
-        static void Exercicio2()
+        //Method that calculates the area of ​​the circle
+        static void CircleArea()
         {
-            double raio, area;
+            double radius,area;
 
-            //Entrando com decimal com ponto no lugar da vírgula
-            Console.WriteLine("Digite o valor do raio do círculo:");
-            raio = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            //Entering a decimal with a period instead of a comma
+            Console.WriteLine("Enter the circle radius value:");
+            radius = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-            area = 3.14159 * Math.Pow(raio, 2);
+            area = 3.14159 * Math.Pow(radius, 2);
 
-            Console.WriteLine("A=" + area.ToString("F4", CultureInfo.InvariantCulture));
+            Console.WriteLine("Area =" + area.ToString("F4", CultureInfo.InvariantCulture));
         }
 
-        static void Exercicio3()
+        //Method that makes the product difference of A and B by the product of C and D
+        static void ProductDifference()
         {
-            int a, b, c, d, diferenca;
+            int a, b, c, d, difference;
 
-            Console.WriteLine("Digite o valor de A:");
+            Console.WriteLine("Enter the value of A:");
             a = int.Parse(Console.ReadLine());
-            Console.WriteLine("Digite o valor de B:");
+            Console.WriteLine("Enter the value of B:");
             b = int.Parse(Console.ReadLine());
-            Console.WriteLine("Digite o valor de C:");
+            Console.WriteLine("Enter the value of C:");
             c = int.Parse(Console.ReadLine());
-            Console.WriteLine("Digite o valor de D:");
+            Console.WriteLine("Enter the value of D:");
             d = int.Parse(Console.ReadLine());
 
-            diferenca = (a * b - c * d);
+            difference = (a * b - c * d);
 
-            Console.WriteLine("DIFERENCA = " + diferenca);
+            Console.WriteLine("DIFFERENCE = " + difference);
 
         }
 
-        static void Exercicio4()
+        //Method that calculates an employee's hours worked
+        static void WorkedHours()
         {
-            int codFuncionario, horasTrabalhadas;
-            float salario, valorHora;
+            int idEmployee, workedHours;
+            float salary, hourValue;
 
-            Console.WriteLine("Digite o número do funcionário:");
-            codFuncionario = int.Parse(Console.ReadLine());
-            Console.WriteLine("Digite as horas trabalhadas:");
-            horasTrabalhadas = int.Parse(Console.ReadLine());
-            Console.WriteLine("Digite o valor que recebe por hora:");
-            valorHora = float.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            Console.WriteLine("Enter employee code: ");
+            idEmployee = int.Parse(Console.ReadLine());
+            Console.WriteLine("Enter hours worked: ");
+            workedHours = int.Parse(Console.ReadLine());
+            Console.WriteLine("Enter the amount you receive per hour:");
+            hourValue = float.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-            salario = horasTrabalhadas * valorHora;
+            salary = workedHours * hourValue;
 
             Console.WriteLine
             (
                 "NUMBER = {0}\n"
                 + "SALARY = U$ {1}"
-                , codFuncionario, salario.ToString("F2", CultureInfo.InvariantCulture)
+                , idEmployee, salary.ToString("F2", CultureInfo.InvariantCulture)
             );
         }
 
-        static void Exercicio5() 
+        //Method that performs the insertion and purchase of a product to use the split function
+        static void PurchaseProduct() 
         {
-            int codPeca1, codPeca2, qtdPeca1, qtdPeca2;
-            float valorUnitario1, valorUnitario2, valorTotal;
+            int idFirstProduct, idSecondProduct, quantityFirstProduct, quantitySecondProduct;
+            float unitValueFirstProduct, unitValueSecondProduct, totalValue;
 
 
-            Console.WriteLine("Digite o código da peça 1, quantidade de peças 1 e valor unitário da peça 1:\n"
-                + "(Separados por espaço)");
-            string[] vet0 = Console.ReadLine().Split(' ');
-            Console.WriteLine("Digite o código da peça 2, quantidade de peças 2 e valor unitário da peça 2:\n"
-                + "(Separados por espaço)");
-            string[] vet1 = Console.ReadLine().Split(' ');
+            Console.WriteLine("Enter part number 1, number of parts 1 and unit value of part 1:\n"
+                + "(Separated by space)");
+            string[] firstProduct = Console.ReadLine().Split(' ');
+            Console.WriteLine("Enter part 2 code, number of parts 2 and unit value of part 2:\n"
+                + "(Separated by space)");
+            string[] secondProduct = Console.ReadLine().Split(' ');
 
-            codPeca1 = int.Parse(vet0[0]);
-            qtdPeca1 = int.Parse(vet0[1]);
-            valorUnitario1 = float.Parse(vet0[2], CultureInfo.InvariantCulture);
-            codPeca2 = int.Parse(vet1[0]);
-            qtdPeca2 = int.Parse(vet1[1]);
-            valorUnitario2 = float.Parse(vet1[2], CultureInfo.InvariantCulture);
+            idFirstProduct = int.Parse(firstProduct[0]);
+            quantityFirstProduct = int.Parse(firstProduct[1]);
+            unitValueFirstProduct = float.Parse(firstProduct[2], CultureInfo.InvariantCulture);
+            idSecondProduct = int.Parse(secondProduct[0]);
+            quantitySecondProduct = int.Parse(secondProduct[1]);
+            unitValueSecondProduct = float.Parse(secondProduct[2], CultureInfo.InvariantCulture);
 
-            valorTotal = (valorUnitario1 * qtdPeca1) + (valorUnitario2 * qtdPeca2);
+            totalValue = (unitValueFirstProduct * quantityFirstProduct) + (unitValueSecondProduct * quantitySecondProduct);
 
-            Console.WriteLine("VALOR A PAGAR: R$ " + valorTotal.ToString("F2", CultureInfo.InvariantCulture));
+            Console.WriteLine("TOTAL AMOUNT PAYABLE: R$ " + totalValue.ToString("F2", CultureInfo.InvariantCulture));
 
         }
 
-        static void Exercicio6() 
+        //Method that calculates areas with the entry of three numbers using a floating point
+        static void FloatingPointCalculation() 
         {
-            double a, b, c, areaTriangulo, areaCirculo, areaTrapezio, areaQuadrado, areaRetangulo;
+            double a, b, c, triangleArea, circleArea, trapezoidArea, squareArea, rectangleArea;
 
-            Console.WriteLine("Digite os 3 valores de cada lado separados por espaço:");
+            Console.WriteLine("Enter the 3 values ​​on each side separated by space:");
             string[] valores = Console.ReadLine().Split(' ');
 
             a = double.Parse(valores[0], CultureInfo.InvariantCulture);
             b = double.Parse(valores[1], CultureInfo.InvariantCulture);
             c = double.Parse(valores[2], CultureInfo.InvariantCulture);
 
-            areaTriangulo = (a * c) / 2;
-            areaCirculo = Math.Pow(c,2) * 3.14159;
-            areaTrapezio = (a + b) / 2.0 * c;
-            areaQuadrado = b * b;
-            areaRetangulo = a * b;
+            triangleArea = (a * c) / 2;
+            circleArea = Math.Pow(c,2) * 3.14159;
+            trapezoidArea = (a + b) / 2.0 * c;
+            squareArea = b * b;
+            rectangleArea = a * b;
 
             Console.WriteLine
             (
-                "TRIANGULO: {0}\n"
-                + "CIRCULO: {1}\n"
-                + "TRAPEZIO: {2}\n"
-                + "QUADRADO: {3}\n"
-                + "RETANGULO: {4}\n"
-                ,areaTriangulo.ToString("F3", CultureInfo.InvariantCulture)
-                ,areaCirculo.ToString("F3", CultureInfo.InvariantCulture)
-                ,areaTrapezio.ToString("F3", CultureInfo.InvariantCulture)
-                ,areaQuadrado.ToString("F3", CultureInfo.InvariantCulture)
-                ,areaRetangulo.ToString("F3", CultureInfo.InvariantCulture)
+                "TRIANGLE: {0}\n"
+                + "CIRCLE: {1}\n"
+                + "TRAPEZOID: {2}\n"
+                + "SQUARE: {3}\n"
+                + "RECTANGLE: {4}\n"
+                ,triangleArea.ToString("F3", CultureInfo.InvariantCulture)
+                ,circleArea.ToString("F3", CultureInfo.InvariantCulture)
+                ,trapezoidArea.ToString("F3", CultureInfo.InvariantCulture)
+                ,squareArea.ToString("F3", CultureInfo.InvariantCulture)
+                ,rectangleArea.ToString("F3", CultureInfo.InvariantCulture)
             );
         }
 
         static void Main(string[] args)
         {
-            Exercicio1();
-            Exercicio2();
-            Exercicio3();
-            Exercicio4();
-            Exercicio5();
-            Exercicio6();
+            int menuOption;
+
+            Console.WriteLine
+            ("Choose the option you want: "
+
+                + "\n1 - Perform Sum of two numbers."
+
+                + "\n2 - Calculate the area of ​​a circle."
+
+                + "\n3 - Realize the difference between the Product of A and B and the Product of C and D."
+
+                + "\n4 - Calculate an employee's hours worked."
+
+                + "\n5 - Perform the insertion and purchase of a product"
+
+                + "\n6 - Perform calculation of areas with floating point."
+            );
+
+            //If there is no option in the menu, the program will be closed
+            menuOption = int.Parse(Console.ReadLine());
+            switch (menuOption) {
+                case 1: 
+                    SumNumbers();
+                    break;
+                case 2:
+                    CircleArea();
+                    break;
+                case 3: 
+                    ProductDifference();
+                    break;
+                case 4:
+                    WorkedHours();
+                    break;
+                case 5: 
+                    PurchaseProduct();
+                    break;
+                case 6: 
+                    FloatingPointCalculation();
+                    break;
+                default:
+                    break;
+            }
         }
     }
 }
