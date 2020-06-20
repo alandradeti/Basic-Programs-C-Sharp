@@ -1,0 +1,12 @@
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Conditional_Structure\Conditional_Structure\bin\Debug\netcoreapp3.1\Conditional_Structure.exe
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Conditional_Structure\Conditional_Structure\bin\Debug\netcoreapp3.1\Conditional_Structure.deps.json
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Conditional_Structure\Conditional_Structure\bin\Debug\netcoreapp3.1\Conditional_Structure.runtimeconfig.json
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Conditional_Structure\Conditional_Structure\bin\Debug\netcoreapp3.1\Conditional_Structure.runtimeconfig.dev.json
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Conditional_Structure\Conditional_Structure\bin\Debug\netcoreapp3.1\Conditional_Structure.dll
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Conditional_Structure\Conditional_Structure\bin\Debug\netcoreapp3.1\Conditional_Structure.pdb
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Conditional_Structure\Conditional_Structure\obj\Debug\netcoreapp3.1\Conditional_Structure.AssemblyInfoInputs.cache
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Conditional_Structure\Conditional_Structure\obj\Debug\netcoreapp3.1\Conditional_Structure.AssemblyInfo.cs
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Conditional_Structure\Conditional_Structure\obj\Debug\netcoreapp3.1\Conditional_Structure.csproj.CoreCompileInputs.cache
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Conditional_Structure\Conditional_Structure\obj\Debug\netcoreapp3.1\Conditional_Structure.dll
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Conditional_Structure\Conditional_Structure\obj\Debug\netcoreapp3.1\Conditional_Structure.pdb
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Conditional_Structure\Conditional_Structure\obj\Debug\netcoreapp3.1\Conditional_Structure.genruntimeconfig.cache
