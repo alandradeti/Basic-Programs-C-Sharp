@@ -111,11 +111,11 @@ namespace Estrutura_Sequencial
             double a, b, c, triangleArea, circleArea, trapezoidArea, squareArea, rectangleArea;
 
             Console.WriteLine("Enter the 3 values on each side separated by space: ");
-            string[] valores = Console.ReadLine().Split(' ');
+            string[] numbers = Console.ReadLine().Split(' ');
 
-            a = double.Parse(valores[0], CultureInfo.InvariantCulture);
-            b = double.Parse(valores[1], CultureInfo.InvariantCulture);
-            c = double.Parse(valores[2], CultureInfo.InvariantCulture);
+            a = double.Parse(numbers[0], CultureInfo.InvariantCulture);
+            b = double.Parse(numbers[1], CultureInfo.InvariantCulture);
+            c = double.Parse(numbers[2], CultureInfo.InvariantCulture);
 
             triangleArea = (a * c) / 2;
             circleArea = Math.Pow(c,2) * 3.14159;
