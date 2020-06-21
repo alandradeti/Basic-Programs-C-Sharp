@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Estrutura-Sequencial")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Sequential_Structure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("Estrutura-Sequencial")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Estrutura-Sequencial")]
+[assembly: System.Reflection.AssemblyProductAttribute("Sequential_Structure")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Sequential_Structure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

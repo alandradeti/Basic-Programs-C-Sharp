@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Globalization;
 
-namespace Estrutura_Sequencial
+namespace Sequential_Structure
 {
     class Program
     {

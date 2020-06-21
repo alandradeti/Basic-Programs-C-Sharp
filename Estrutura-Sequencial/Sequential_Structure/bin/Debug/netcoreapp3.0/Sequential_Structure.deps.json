@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.0": {
-      "Estrutura-Sequencial/1.0.0": {
+      "Sequential_Structure/1.0.0": {
         "runtime": {
-          "Estrutura-Sequencial.dll": {}
+          "Sequential_Structure.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Estrutura-Sequencial/1.0.0": {
+    "Sequential_Structure/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Ailton Lima\\repos\\alandradeti\\Programas-Basicos-C-Sharp\\Estrutura-Sequencial\\Estrutura-Sequencial\\Estrutura-Sequencial.csproj",
-      "projectName": "Estrutura-Sequencial",
-      "projectPath": "D:\\Ailton Lima\\repos\\alandradeti\\Programas-Basicos-C-Sharp\\Estrutura-Sequencial\\Estrutura-Sequencial\\Estrutura-Sequencial.csproj",
+      "projectUniqueName": "D:\\Ailton Lima\\repos\\alandradeti\\Programas-Basicos-C-Sharp\\Estrutura-Sequencial\\Sequential_Structure\\Sequential_Structure.csproj",
+      "projectName": "Sequential_Structure",
+      "projectPath": "D:\\Ailton Lima\\repos\\alandradeti\\Programas-Basicos-C-Sharp\\Estrutura-Sequencial\\Sequential_Structure\\Sequential_Structure.csproj",
       "packagesPath": "C:\\Users\\Ailton Lima\\.nuget\\packages\\",
-      "outputPath": "D:\\Ailton Lima\\repos\\alandradeti\\Programas-Basicos-C-Sharp\\Estrutura-Sequencial\\Estrutura-Sequencial\\obj\\",
+      "outputPath": "D:\\Ailton Lima\\repos\\alandradeti\\Programas-Basicos-C-Sharp\\Estrutura-Sequencial\\Sequential_Structure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ailton Lima\\AppData\\Roaming\\NuGet\\NuGet.Config",
