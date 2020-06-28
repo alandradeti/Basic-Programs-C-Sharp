@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5l/uyRGWbaAAy2W7aYIaoTsZIAo4eVFG7Pw7dLM5C4Jc7Tdmh98e/EBk0Dq3LEL+5DWIg0z/JUKsmwoWhqb+Qg==",
+  "dgSpecHash": "eJdE3ZsXFYsivOMHdCH/7ooVKJJCK+DHDPiDRZi/lyXhzdq1njJgot6yvgWCb50OCTeNkLD8r0OY7nvJOafrpg==",
   "success": true,
   "projectFilePath": "D:\\Ailton Lima\\repos\\alandradeti\\Programas-Basicos-C-Sharp\\While_Structure\\While_Structure\\While_Structure.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Ailton Lima\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

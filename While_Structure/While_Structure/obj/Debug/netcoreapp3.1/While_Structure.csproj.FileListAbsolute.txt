@@ -4,7 +4,6 @@ D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\While_Structure\While
 D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\While_Structure\While_Structure\bin\Debug\netcoreapp3.1\While_Structure.runtimeconfig.dev.json
 D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\While_Structure\While_Structure\bin\Debug\netcoreapp3.1\While_Structure.dll
 D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\While_Structure\While_Structure\bin\Debug\netcoreapp3.1\While_Structure.pdb
-D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\While_Structure\While_Structure\obj\Debug\netcoreapp3.1\While_Structure.csprojAssemblyReference.cache
 D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\While_Structure\While_Structure\obj\Debug\netcoreapp3.1\While_Structure.AssemblyInfoInputs.cache
 D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\While_Structure\While_Structure\obj\Debug\netcoreapp3.1\While_Structure.AssemblyInfo.cs
 D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\While_Structure\While_Structure\obj\Debug\netcoreapp3.1\While_Structure.csproj.CoreCompileInputs.cache
