@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Ailton Lima\\repos\\alandradeti\\Programas-Basicos-C-Sharp\\Estrutura-Sequencial\\Sequential_Structure\\Sequential_Structure.csproj",
+      "projectUniqueName": "D:\\Ailton Lima\\repos\\alandradeti\\Programas-Basicos-C-Sharp\\Sequential_Structure\\Sequential_Structure\\Sequential_Structure.csproj",
       "projectName": "Sequential_Structure",
-      "projectPath": "D:\\Ailton Lima\\repos\\alandradeti\\Programas-Basicos-C-Sharp\\Estrutura-Sequencial\\Sequential_Structure\\Sequential_Structure.csproj",
+      "projectPath": "D:\\Ailton Lima\\repos\\alandradeti\\Programas-Basicos-C-Sharp\\Sequential_Structure\\Sequential_Structure\\Sequential_Structure.csproj",
       "packagesPath": "C:\\Users\\Ailton Lima\\.nuget\\packages\\",
-      "outputPath": "D:\\Ailton Lima\\repos\\alandradeti\\Programas-Basicos-C-Sharp\\Estrutura-Sequencial\\Sequential_Structure\\obj\\",
+      "outputPath": "D:\\Ailton Lima\\repos\\alandradeti\\Programas-Basicos-C-Sharp\\Sequential_Structure\\Sequential_Structure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ailton Lima\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -76,7 +76,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

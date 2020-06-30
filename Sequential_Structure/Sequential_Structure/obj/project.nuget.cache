@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WKoKifouM/4cZSez7dzvp40+X5HfM9GgQ6mrXBuu/FDywiv8Q/MbJ15Rn9oBpqqL4Ru/DsTedsFAe9pI3Zc6Tg==",
+  "dgSpecHash": "XgZlWi4cKUGP+LkQQ9g0dj0S/jvJWI8qtclHhWZQoLeSLQ6sk0PiM94TmALuUVM3dZFKWJ29BUj6jzpdRqdB+Q==",
   "success": true,
-  "projectFilePath": "D:\\Ailton Lima\\repos\\alandradeti\\Programas-Basicos-C-Sharp\\Estrutura-Sequencial\\Sequential_Structure\\Sequential_Structure.csproj",
+  "projectFilePath": "D:\\Ailton Lima\\repos\\alandradeti\\Programas-Basicos-C-Sharp\\Sequential_Structure\\Sequential_Structure\\Sequential_Structure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ailton Lima\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
     "C:\\Users\\Ailton Lima\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
