@@ -1,0 +1,13 @@
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Structure_For\Structure_For\bin\Debug\netcoreapp3.1\Structure_For.exe
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Structure_For\Structure_For\bin\Debug\netcoreapp3.1\Structure_For.deps.json
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Structure_For\Structure_For\bin\Debug\netcoreapp3.1\Structure_For.runtimeconfig.json
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Structure_For\Structure_For\bin\Debug\netcoreapp3.1\Structure_For.runtimeconfig.dev.json
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Structure_For\Structure_For\bin\Debug\netcoreapp3.1\Structure_For.dll
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Structure_For\Structure_For\bin\Debug\netcoreapp3.1\Structure_For.pdb
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Structure_For\Structure_For\obj\Debug\netcoreapp3.1\Structure_For.csprojAssemblyReference.cache
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Structure_For\Structure_For\obj\Debug\netcoreapp3.1\Structure_For.AssemblyInfoInputs.cache
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Structure_For\Structure_For\obj\Debug\netcoreapp3.1\Structure_For.AssemblyInfo.cs
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Structure_For\Structure_For\obj\Debug\netcoreapp3.1\Structure_For.csproj.CoreCompileInputs.cache
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Structure_For\Structure_For\obj\Debug\netcoreapp3.1\Structure_For.dll
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Structure_For\Structure_For\obj\Debug\netcoreapp3.1\Structure_For.pdb
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Structure_For\Structure_For\obj\Debug\netcoreapp3.1\Structure_For.genruntimeconfig.cache
