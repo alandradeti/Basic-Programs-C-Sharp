@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Globalization;
 
-namespace Overload_AutoProperties
+namespace AutoProperties_Overhead
 {
     class Program
     {

@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Overload_AutoProperties")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("AutoProperties_Overhead")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("Overload_AutoProperties")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Overload_AutoProperties")]
+[assembly: System.Reflection.AssemblyProductAttribute("AutoProperties_Overhead")]
+[assembly: System.Reflection.AssemblyTitleAttribute("AutoProperties_Overhead")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

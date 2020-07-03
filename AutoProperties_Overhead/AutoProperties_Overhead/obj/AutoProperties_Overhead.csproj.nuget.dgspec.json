@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Ailton Lima\\repos\\alandradeti\\Programas-Basicos-C-Sharp\\Overload_AutoProperties\\Overload_AutoProperties\\Overload_AutoProperties.csproj": {}
+    "D:\\Ailton Lima\\repos\\alandradeti\\Programas-Basicos-C-Sharp\\AutoProperties_Overhead\\AutoProperties_Overhead\\AutoProperties_Overhead.csproj": {}
   },
   "projects": {
-    "D:\\Ailton Lima\\repos\\alandradeti\\Programas-Basicos-C-Sharp\\Overload_AutoProperties\\Overload_AutoProperties\\Overload_AutoProperties.csproj": {
+    "D:\\Ailton Lima\\repos\\alandradeti\\Programas-Basicos-C-Sharp\\AutoProperties_Overhead\\AutoProperties_Overhead\\AutoProperties_Overhead.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Ailton Lima\\repos\\alandradeti\\Programas-Basicos-C-Sharp\\Overload_AutoProperties\\Overload_AutoProperties\\Overload_AutoProperties.csproj",
-        "projectName": "Overload_AutoProperties",
-        "projectPath": "D:\\Ailton Lima\\repos\\alandradeti\\Programas-Basicos-C-Sharp\\Overload_AutoProperties\\Overload_AutoProperties\\Overload_AutoProperties.csproj",
+        "projectUniqueName": "D:\\Ailton Lima\\repos\\alandradeti\\Programas-Basicos-C-Sharp\\AutoProperties_Overhead\\AutoProperties_Overhead\\AutoProperties_Overhead.csproj",
+        "projectName": "AutoProperties_Overhead",
+        "projectPath": "D:\\Ailton Lima\\repos\\alandradeti\\Programas-Basicos-C-Sharp\\AutoProperties_Overhead\\AutoProperties_Overhead\\AutoProperties_Overhead.csproj",
         "packagesPath": "C:\\Users\\Ailton Lima\\.nuget\\packages\\",
-        "outputPath": "D:\\Ailton Lima\\repos\\alandradeti\\Programas-Basicos-C-Sharp\\Overload_AutoProperties\\Overload_AutoProperties\\obj\\",
+        "outputPath": "D:\\Ailton Lima\\repos\\alandradeti\\Programas-Basicos-C-Sharp\\AutoProperties_Overhead\\AutoProperties_Overhead\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ailton Lima\\AppData\\Roaming\\NuGet\\NuGet.Config",
