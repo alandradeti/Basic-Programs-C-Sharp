@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Exercicio-Fixacao-Listas-Secao-06")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("ListObjects_Foreach")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("Exercicio-Fixacao-Listas-Secao-06")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Exercicio-Fixacao-Listas-Secao-06")]
+[assembly: System.Reflection.AssemblyProductAttribute("ListObjects_Foreach")]
+[assembly: System.Reflection.AssemblyTitleAttribute("ListObjects_Foreach")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

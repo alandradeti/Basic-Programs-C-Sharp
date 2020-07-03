@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Ailton Lima\\repos\\alandradeti\\Programas-Basicos-C-Sharp\\Exercicio-Fixacao-Listas-Secao-06\\Exercicio-Fixacao-Listas-Secao-06\\Exercicio-Fixacao-Listas-Secao-06.csproj",
-      "projectName": "Exercicio-Fixacao-Listas-Secao-06",
-      "projectPath": "D:\\Ailton Lima\\repos\\alandradeti\\Programas-Basicos-C-Sharp\\Exercicio-Fixacao-Listas-Secao-06\\Exercicio-Fixacao-Listas-Secao-06\\Exercicio-Fixacao-Listas-Secao-06.csproj",
+      "projectUniqueName": "D:\\Ailton Lima\\repos\\alandradeti\\Programas-Basicos-C-Sharp\\ListObjects_Foreach\\ListObjects_Foreach\\ListObjects_Foreach.csproj",
+      "projectName": "ListObjects_Foreach",
+      "projectPath": "D:\\Ailton Lima\\repos\\alandradeti\\Programas-Basicos-C-Sharp\\ListObjects_Foreach\\ListObjects_Foreach\\ListObjects_Foreach.csproj",
       "packagesPath": "C:\\Users\\Ailton Lima\\.nuget\\packages\\",
-      "outputPath": "D:\\Ailton Lima\\repos\\alandradeti\\Programas-Basicos-C-Sharp\\Exercicio-Fixacao-Listas-Secao-06\\Exercicio-Fixacao-Listas-Secao-06\\obj\\",
+      "outputPath": "D:\\Ailton Lima\\repos\\alandradeti\\Programas-Basicos-C-Sharp\\ListObjects_Foreach\\ListObjects_Foreach\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ailton Lima\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,18 +53,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[3.1.2, 3.1.2]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

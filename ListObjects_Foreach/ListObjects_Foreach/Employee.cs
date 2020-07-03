@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Globalization;
 
-namespace Exercicio_Fixacao_Listas_Secao_06
+namespace ListObjects_Foreach
 {
     class Employee
     {
