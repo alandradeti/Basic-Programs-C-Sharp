@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Ailton Lima\\repos\\alandradeti\\Programas-Basicos-C-Sharp\\Exercicio-Fixacao-Secao-05\\Exercicio-Fixacao-Secao-05\\Exercicio-Fixacao-Secao-05.csproj",
-      "projectName": "Exercicio-Fixacao-Secao-05",
-      "projectPath": "D:\\Ailton Lima\\repos\\alandradeti\\Programas-Basicos-C-Sharp\\Exercicio-Fixacao-Secao-05\\Exercicio-Fixacao-Secao-05\\Exercicio-Fixacao-Secao-05.csproj",
+      "projectUniqueName": "D:\\Ailton Lima\\repos\\alandradeti\\Programas-Basicos-C-Sharp\\Overload_AutoProperties\\Overload_AutoProperties\\Overload_AutoProperties.csproj",
+      "projectName": "Overload_AutoProperties",
+      "projectPath": "D:\\Ailton Lima\\repos\\alandradeti\\Programas-Basicos-C-Sharp\\Overload_AutoProperties\\Overload_AutoProperties\\Overload_AutoProperties.csproj",
       "packagesPath": "C:\\Users\\Ailton Lima\\.nuget\\packages\\",
-      "outputPath": "D:\\Ailton Lima\\repos\\alandradeti\\Programas-Basicos-C-Sharp\\Exercicio-Fixacao-Secao-05\\Exercicio-Fixacao-Secao-05\\obj\\",
+      "outputPath": "D:\\Ailton Lima\\repos\\alandradeti\\Programas-Basicos-C-Sharp\\Overload_AutoProperties\\Overload_AutoProperties\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ailton Lima\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,18 +53,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[3.1.2, 3.1.2]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
       }
     }
   }
