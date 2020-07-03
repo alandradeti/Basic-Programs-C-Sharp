@@ -11,3 +11,16 @@ D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Exercicio-Fixacao-Sec
 D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Exercicio-Fixacao-Secao-06\Objects_Vector\obj\Debug\netcoreapp3.1\Objects_Vector.dll
 D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Exercicio-Fixacao-Secao-06\Objects_Vector\obj\Debug\netcoreapp3.1\Objects_Vector.pdb
 D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Exercicio-Fixacao-Secao-06\Objects_Vector\obj\Debug\netcoreapp3.1\Objects_Vector.genruntimeconfig.cache
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Objects_Vector\Objects_Vector\bin\Debug\netcoreapp3.1\Objects_Vector.exe
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Objects_Vector\Objects_Vector\bin\Debug\netcoreapp3.1\Objects_Vector.deps.json
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Objects_Vector\Objects_Vector\bin\Debug\netcoreapp3.1\Objects_Vector.runtimeconfig.json
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Objects_Vector\Objects_Vector\bin\Debug\netcoreapp3.1\Objects_Vector.runtimeconfig.dev.json
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Objects_Vector\Objects_Vector\bin\Debug\netcoreapp3.1\Objects_Vector.dll
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Objects_Vector\Objects_Vector\bin\Debug\netcoreapp3.1\Objects_Vector.pdb
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Objects_Vector\Objects_Vector\obj\Debug\netcoreapp3.1\Objects_Vector.csprojAssemblyReference.cache
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Objects_Vector\Objects_Vector\obj\Debug\netcoreapp3.1\Objects_Vector.AssemblyInfoInputs.cache
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Objects_Vector\Objects_Vector\obj\Debug\netcoreapp3.1\Objects_Vector.AssemblyInfo.cs
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Objects_Vector\Objects_Vector\obj\Debug\netcoreapp3.1\Objects_Vector.csproj.CoreCompileInputs.cache
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Objects_Vector\Objects_Vector\obj\Debug\netcoreapp3.1\Objects_Vector.dll
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Objects_Vector\Objects_Vector\obj\Debug\netcoreapp3.1\Objects_Vector.pdb
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Objects_Vector\Objects_Vector\obj\Debug\netcoreapp3.1\Objects_Vector.genruntimeconfig.cache

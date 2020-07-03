@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Ailton Lima\\repos\\alandradeti\\Programas-Basicos-C-Sharp\\Exercicio-Fixacao-Secao-06\\Objects_Vector\\Objects_Vector.csproj",
+      "projectUniqueName": "D:\\Ailton Lima\\repos\\alandradeti\\Programas-Basicos-C-Sharp\\Objects_Vector\\Objects_Vector\\Objects_Vector.csproj",
       "projectName": "Objects_Vector",
-      "projectPath": "D:\\Ailton Lima\\repos\\alandradeti\\Programas-Basicos-C-Sharp\\Exercicio-Fixacao-Secao-06\\Objects_Vector\\Objects_Vector.csproj",
+      "projectPath": "D:\\Ailton Lima\\repos\\alandradeti\\Programas-Basicos-C-Sharp\\Objects_Vector\\Objects_Vector\\Objects_Vector.csproj",
       "packagesPath": "C:\\Users\\Ailton Lima\\.nuget\\packages\\",
-      "outputPath": "D:\\Ailton Lima\\repos\\alandradeti\\Programas-Basicos-C-Sharp\\Exercicio-Fixacao-Secao-06\\Objects_Vector\\obj\\",
+      "outputPath": "D:\\Ailton Lima\\repos\\alandradeti\\Programas-Basicos-C-Sharp\\Objects_Vector\\Objects_Vector\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ailton Lima\\AppData\\Roaming\\NuGet\\NuGet.Config",
