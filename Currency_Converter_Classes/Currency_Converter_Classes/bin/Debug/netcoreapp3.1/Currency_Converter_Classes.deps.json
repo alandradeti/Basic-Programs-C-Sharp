@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "Correcao-Exercicios-Fixacao/1.0.0": {
+      "Currency_Converter_Classes/1.0.0": {
         "runtime": {
-          "Correcao-Exercicios-Fixacao.dll": {}
+          "Currency_Converter_Classes.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Correcao-Exercicios-Fixacao/1.0.0": {
+    "Currency_Converter_Classes/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

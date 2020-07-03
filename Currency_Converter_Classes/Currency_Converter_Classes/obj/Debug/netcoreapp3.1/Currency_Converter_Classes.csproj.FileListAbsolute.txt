@@ -1,0 +1,13 @@
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Currency_Converter_Classes\Currency_Converter_Classes\bin\Debug\netcoreapp3.1\Currency_Converter_Classes.exe
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Currency_Converter_Classes\Currency_Converter_Classes\bin\Debug\netcoreapp3.1\Currency_Converter_Classes.deps.json
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Currency_Converter_Classes\Currency_Converter_Classes\bin\Debug\netcoreapp3.1\Currency_Converter_Classes.runtimeconfig.json
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Currency_Converter_Classes\Currency_Converter_Classes\bin\Debug\netcoreapp3.1\Currency_Converter_Classes.runtimeconfig.dev.json
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Currency_Converter_Classes\Currency_Converter_Classes\bin\Debug\netcoreapp3.1\Currency_Converter_Classes.dll
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Currency_Converter_Classes\Currency_Converter_Classes\bin\Debug\netcoreapp3.1\Currency_Converter_Classes.pdb
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Currency_Converter_Classes\Currency_Converter_Classes\obj\Debug\netcoreapp3.1\Currency_Converter_Classes.csprojAssemblyReference.cache
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Currency_Converter_Classes\Currency_Converter_Classes\obj\Debug\netcoreapp3.1\Currency_Converter_Classes.AssemblyInfoInputs.cache
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Currency_Converter_Classes\Currency_Converter_Classes\obj\Debug\netcoreapp3.1\Currency_Converter_Classes.AssemblyInfo.cs
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Currency_Converter_Classes\Currency_Converter_Classes\obj\Debug\netcoreapp3.1\Currency_Converter_Classes.csproj.CoreCompileInputs.cache
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Currency_Converter_Classes\Currency_Converter_Classes\obj\Debug\netcoreapp3.1\Currency_Converter_Classes.dll
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Currency_Converter_Classes\Currency_Converter_Classes\obj\Debug\netcoreapp3.1\Currency_Converter_Classes.pdb
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Currency_Converter_Classes\Currency_Converter_Classes\obj\Debug\netcoreapp3.1\Currency_Converter_Classes.genruntimeconfig.cache
