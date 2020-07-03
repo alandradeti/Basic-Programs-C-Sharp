@@ -1,10 +1,10 @@
-# Programas Básicos em C#
+# Basic Programs in C#
 
-Códigos em linguagem C# com propósitos de treinar conceitos de resoluções de problemas.<br>
+C# language codes for problem reflection purposes. <br>
 
-Neste repositório encontram-se diversos códigos, que trazem soluções de problemas com programação em C# e conceitos como:<br>
+This repository addresses various codes, which provides solutions to C# programming problems and concepts such as: <br>
 
--Conhecimento da liguagem<br>
--Declaração de váriavéis<br>
--Tipos de dados<br>
--Estruturas
+- Knowledge of the connection <br>
+- Declaration of varieties <br>
+- Types of data <br>
+- Structures
