@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "Exercicio-Fixacao-Secao-06/1.0.0": {
+      "Objects_Vector/1.0.0": {
         "runtime": {
-          "Exercicio-Fixacao-Secao-06.dll": {}
+          "Objects_Vector.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Exercicio-Fixacao-Secao-06/1.0.0": {
+    "Objects_Vector/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

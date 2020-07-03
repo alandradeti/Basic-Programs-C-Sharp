@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>Exercicio_Fixacao_Secao_06</RootNamespace>
+    <RootNamespace>Objects_Vector</RootNamespace>
   </PropertyGroup>
 
 </Project>

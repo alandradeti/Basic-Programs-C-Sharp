@@ -2,22 +2,22 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Exercicio_Fixacao_Secao_06
+namespace Objects_Vector
 {
-    class Estudante
+    class Student
     {
-        public string Nome { get; set; }
+        public string Name { get; set; }
         public string Email { get; set; }
 
-        public Estudante(string nome, string email)
+        public Student(string name, string email)
         {
-            Nome = nome;
+            Name = name;
             Email = email;
         }
 
         public override string ToString()
         {
-            return Nome + ", " + Email;
+            return Name + ", " + Email;
         }
     }
 }
