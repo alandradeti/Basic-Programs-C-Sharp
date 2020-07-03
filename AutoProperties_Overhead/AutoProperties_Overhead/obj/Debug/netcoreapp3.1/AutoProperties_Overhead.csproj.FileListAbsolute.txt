@@ -1,0 +1,13 @@
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\AutoProperties_Overhead\AutoProperties_Overhead\bin\Debug\netcoreapp3.1\AutoProperties_Overhead.exe
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\AutoProperties_Overhead\AutoProperties_Overhead\bin\Debug\netcoreapp3.1\AutoProperties_Overhead.deps.json
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\AutoProperties_Overhead\AutoProperties_Overhead\bin\Debug\netcoreapp3.1\AutoProperties_Overhead.runtimeconfig.json
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\AutoProperties_Overhead\AutoProperties_Overhead\bin\Debug\netcoreapp3.1\AutoProperties_Overhead.runtimeconfig.dev.json
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\AutoProperties_Overhead\AutoProperties_Overhead\bin\Debug\netcoreapp3.1\AutoProperties_Overhead.dll
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\AutoProperties_Overhead\AutoProperties_Overhead\bin\Debug\netcoreapp3.1\AutoProperties_Overhead.pdb
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\AutoProperties_Overhead\AutoProperties_Overhead\obj\Debug\netcoreapp3.1\AutoProperties_Overhead.csprojAssemblyReference.cache
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\AutoProperties_Overhead\AutoProperties_Overhead\obj\Debug\netcoreapp3.1\AutoProperties_Overhead.AssemblyInfoInputs.cache
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\AutoProperties_Overhead\AutoProperties_Overhead\obj\Debug\netcoreapp3.1\AutoProperties_Overhead.AssemblyInfo.cs
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\AutoProperties_Overhead\AutoProperties_Overhead\obj\Debug\netcoreapp3.1\AutoProperties_Overhead.csproj.CoreCompileInputs.cache
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\AutoProperties_Overhead\AutoProperties_Overhead\obj\Debug\netcoreapp3.1\AutoProperties_Overhead.dll
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\AutoProperties_Overhead\AutoProperties_Overhead\obj\Debug\netcoreapp3.1\AutoProperties_Overhead.pdb
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\AutoProperties_Overhead\AutoProperties_Overhead\obj\Debug\netcoreapp3.1\AutoProperties_Overhead.genruntimeconfig.cache

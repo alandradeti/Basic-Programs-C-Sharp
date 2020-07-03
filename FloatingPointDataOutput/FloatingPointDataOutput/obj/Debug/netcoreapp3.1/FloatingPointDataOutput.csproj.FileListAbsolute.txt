@@ -1,0 +1,13 @@
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\FloatingPointDataOutput\FloatingPointDataOutput\bin\Debug\netcoreapp3.1\FloatingPointDataOutput.exe
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\FloatingPointDataOutput\FloatingPointDataOutput\bin\Debug\netcoreapp3.1\FloatingPointDataOutput.deps.json
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\FloatingPointDataOutput\FloatingPointDataOutput\bin\Debug\netcoreapp3.1\FloatingPointDataOutput.runtimeconfig.json
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\FloatingPointDataOutput\FloatingPointDataOutput\bin\Debug\netcoreapp3.1\FloatingPointDataOutput.runtimeconfig.dev.json
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\FloatingPointDataOutput\FloatingPointDataOutput\bin\Debug\netcoreapp3.1\FloatingPointDataOutput.dll
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\FloatingPointDataOutput\FloatingPointDataOutput\bin\Debug\netcoreapp3.1\FloatingPointDataOutput.pdb
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\FloatingPointDataOutput\FloatingPointDataOutput\obj\Debug\netcoreapp3.1\FloatingPointDataOutput.csprojAssemblyReference.cache
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\FloatingPointDataOutput\FloatingPointDataOutput\obj\Debug\netcoreapp3.1\FloatingPointDataOutput.AssemblyInfoInputs.cache
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\FloatingPointDataOutput\FloatingPointDataOutput\obj\Debug\netcoreapp3.1\FloatingPointDataOutput.AssemblyInfo.cs
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\FloatingPointDataOutput\FloatingPointDataOutput\obj\Debug\netcoreapp3.1\FloatingPointDataOutput.csproj.CoreCompileInputs.cache
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\FloatingPointDataOutput\FloatingPointDataOutput\obj\Debug\netcoreapp3.1\FloatingPointDataOutput.dll
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\FloatingPointDataOutput\FloatingPointDataOutput\obj\Debug\netcoreapp3.1\FloatingPointDataOutput.pdb
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\FloatingPointDataOutput\FloatingPointDataOutput\obj\Debug\netcoreapp3.1\FloatingPointDataOutput.genruntimeconfig.cache

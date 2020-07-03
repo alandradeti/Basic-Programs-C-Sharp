@@ -1,0 +1,12 @@
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\ListObjects_Foreach\ListObjects_Foreach\bin\Debug\netcoreapp3.1\ListObjects_Foreach.exe
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\ListObjects_Foreach\ListObjects_Foreach\bin\Debug\netcoreapp3.1\ListObjects_Foreach.deps.json
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\ListObjects_Foreach\ListObjects_Foreach\bin\Debug\netcoreapp3.1\ListObjects_Foreach.runtimeconfig.json
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\ListObjects_Foreach\ListObjects_Foreach\bin\Debug\netcoreapp3.1\ListObjects_Foreach.runtimeconfig.dev.json
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\ListObjects_Foreach\ListObjects_Foreach\bin\Debug\netcoreapp3.1\ListObjects_Foreach.dll
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\ListObjects_Foreach\ListObjects_Foreach\bin\Debug\netcoreapp3.1\ListObjects_Foreach.pdb
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\ListObjects_Foreach\ListObjects_Foreach\obj\Debug\netcoreapp3.1\ListObjects_Foreach.AssemblyInfoInputs.cache
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\ListObjects_Foreach\ListObjects_Foreach\obj\Debug\netcoreapp3.1\ListObjects_Foreach.AssemblyInfo.cs
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\ListObjects_Foreach\ListObjects_Foreach\obj\Debug\netcoreapp3.1\ListObjects_Foreach.csproj.CoreCompileInputs.cache
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\ListObjects_Foreach\ListObjects_Foreach\obj\Debug\netcoreapp3.1\ListObjects_Foreach.dll
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\ListObjects_Foreach\ListObjects_Foreach\obj\Debug\netcoreapp3.1\ListObjects_Foreach.pdb
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\ListObjects_Foreach\ListObjects_Foreach\obj\Debug\netcoreapp3.1\ListObjects_Foreach.genruntimeconfig.cache

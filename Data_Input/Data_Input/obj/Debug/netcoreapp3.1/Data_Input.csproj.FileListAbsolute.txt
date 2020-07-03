@@ -1,0 +1,13 @@
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Data_Input\Data_Input\bin\Debug\netcoreapp3.1\Data_Input.exe
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Data_Input\Data_Input\bin\Debug\netcoreapp3.1\Data_Input.deps.json
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Data_Input\Data_Input\bin\Debug\netcoreapp3.1\Data_Input.runtimeconfig.json
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Data_Input\Data_Input\bin\Debug\netcoreapp3.1\Data_Input.runtimeconfig.dev.json
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Data_Input\Data_Input\bin\Debug\netcoreapp3.1\Data_Input.dll
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Data_Input\Data_Input\bin\Debug\netcoreapp3.1\Data_Input.pdb
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Data_Input\Data_Input\obj\Debug\netcoreapp3.1\Data_Input.csprojAssemblyReference.cache
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Data_Input\Data_Input\obj\Debug\netcoreapp3.1\Data_Input.AssemblyInfoInputs.cache
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Data_Input\Data_Input\obj\Debug\netcoreapp3.1\Data_Input.AssemblyInfo.cs
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Data_Input\Data_Input\obj\Debug\netcoreapp3.1\Data_Input.csproj.CoreCompileInputs.cache
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Data_Input\Data_Input\obj\Debug\netcoreapp3.1\Data_Input.dll
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Data_Input\Data_Input\obj\Debug\netcoreapp3.1\Data_Input.pdb
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Data_Input\Data_Input\obj\Debug\netcoreapp3.1\Data_Input.genruntimeconfig.cache
