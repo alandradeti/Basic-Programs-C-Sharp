@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Matrix_MxN/1.0.0": {
+        "runtime": {
+          "Matrix_MxN.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Matrix_MxN/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

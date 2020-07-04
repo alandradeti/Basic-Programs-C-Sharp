@@ -1,0 +1,12 @@
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Matrix_MxN\Matrix_MxN\bin\Debug\netcoreapp3.1\Matrix_MxN.exe
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Matrix_MxN\Matrix_MxN\bin\Debug\netcoreapp3.1\Matrix_MxN.deps.json
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Matrix_MxN\Matrix_MxN\bin\Debug\netcoreapp3.1\Matrix_MxN.runtimeconfig.json
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Matrix_MxN\Matrix_MxN\bin\Debug\netcoreapp3.1\Matrix_MxN.runtimeconfig.dev.json
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Matrix_MxN\Matrix_MxN\bin\Debug\netcoreapp3.1\Matrix_MxN.dll
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Matrix_MxN\Matrix_MxN\bin\Debug\netcoreapp3.1\Matrix_MxN.pdb
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Matrix_MxN\Matrix_MxN\obj\Debug\netcoreapp3.1\Matrix_MxN.AssemblyInfoInputs.cache
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Matrix_MxN\Matrix_MxN\obj\Debug\netcoreapp3.1\Matrix_MxN.AssemblyInfo.cs
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Matrix_MxN\Matrix_MxN\obj\Debug\netcoreapp3.1\Matrix_MxN.csproj.CoreCompileInputs.cache
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Matrix_MxN\Matrix_MxN\obj\Debug\netcoreapp3.1\Matrix_MxN.dll
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Matrix_MxN\Matrix_MxN\obj\Debug\netcoreapp3.1\Matrix_MxN.pdb
+D:\Ailton Lima\repos\alandradeti\Programas-Basicos-C-Sharp\Matrix_MxN\Matrix_MxN\obj\Debug\netcoreapp3.1\Matrix_MxN.genruntimeconfig.cache
