@@ -21,7 +21,7 @@ namespace AutoProperties_Overhead
         }
 
         //Method that performs the validation of the value, not allowing numbers less than or equal to 0
-        private static double CheckValue(Boolean typeTransaction)
+        private static double CheckValue(bool typeTransaction)
         {
             double value;
             do
